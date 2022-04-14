@@ -6,6 +6,7 @@
 $ git config --global user.name "<NAME>"
 $ git config --global user.email "<EMAIL>"
 $ git config --global credentials.helper store
+$ git config --list
 ```
 
 ### New Repo / Assigning A Repo
